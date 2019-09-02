@@ -23,5 +23,41 @@
 }
 
 /* Positioning Classes */
-
+.left{
+  float: left;
+  width: 65%;
+  margin-left: 2px;
+}
+.right{
+  float: right;
+  width:30%;
+  height: 559px;
+  margin-bottom: 20px;
+  padding:10px;
+}
+.right-sub{
+  float: right;
+  width:30%;
+  margin-top: 10px;
+  height: 347px;
+}
+#in-bl-1{
+  display: inline-block;
+  width: 47% ;
+  margin-top:30px;
+  margin-right: 10px;
+  
+}
+#in-bl-2{
+  display: inline-block;
+  width: 47% ;
+  margin-top:30px;
+  margin-left: 20px;
+  margin-right: -9px;
+} 
+ .col{
+  display: inline-block;
+  margin: 0 auto;
+  margin-left: 40px;
+}
 
