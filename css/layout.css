@@ -36,7 +36,7 @@
   display: inline-block;
   width: 275px ;
   height: 343.88px;
-  clear:both;
+  margin:3px;
 }
 /*#col-1 , #col-2 , #col-3{
   width:20%;
