@@ -35,16 +35,16 @@
 #in-bl-1{
   display: inline-block;
   width: 47% ;
-  margin-top:25px;
+  margin-top:30px;
   margin-right: 10px;
   
 }
 #in-bl-2{
   display: inline-block;
   width: 47% ;
-  margin-top:25px;
+  margin-top:30px;
   margin-left: 20px;
-  margin-right: -10px;
+  
 /*#col-1 , #col-2 , #col-3{
   width:20%;
   display: inline-block;
