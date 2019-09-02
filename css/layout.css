@@ -34,4 +34,6 @@
 #col-1 , #col-2 , #col-3{
   width:31%;
   display: inline-block;
+  clear:both;
+  margin:20px;
 }
