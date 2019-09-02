@@ -25,7 +25,8 @@
 /* Positioning Classes */
 #left{
   float: left;
-  width: 70%
+  width: 60%;
+  margin-left: 8px;
 }
 #right{
   float: right;
