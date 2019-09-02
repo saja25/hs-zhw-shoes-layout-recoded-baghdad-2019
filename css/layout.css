@@ -23,5 +23,12 @@
 }
 
 /* Positioning Classes */
-
+.left{
+  float: left;
+  width: 60%
+}
+.right{
+  float: right;
+  width:30%;
+}
 
