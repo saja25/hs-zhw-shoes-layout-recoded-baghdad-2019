@@ -63,5 +63,5 @@
 #col-1 {
   display: block;
   margin-right: 30px;
-  margin-top: 70px;
+  float: right;
 }
