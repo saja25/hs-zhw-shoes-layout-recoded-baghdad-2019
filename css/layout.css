@@ -60,8 +60,11 @@
   margin-right: 30px;
   margin-top: 10px;
 }
-#col-1 h1{
+#col-1 {
   display: inline-block;
   margin-right: 30px;
   margin-top: -70px;
+}
+#col-1 h1{
+  margin-top: -20px;
 }
