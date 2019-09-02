@@ -32,11 +32,11 @@
   float: right;
   width:30%;
 }
-.in-bl{
+/*.in-bl{
   display: inline-block;
   
 }
-/*#col-1 , #col-2 , #col-3{
+#col-1 , #col-2 , #col-3{
   width:20%;
   display: inline-block;
   margin:8px;
