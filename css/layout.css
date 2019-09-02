@@ -55,6 +55,6 @@
   margin-left: 20px;
   margin-right: -9px;
 } 
-  .col{
-  display: inline;
+ .col{
+  display: inline-block;
 }
