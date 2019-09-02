@@ -35,7 +35,10 @@
   margin-bottom: 20px;
   padding:10px;
 }
-
+.right-sub{
+  float: right;
+  width:30%;
+}
 #in-bl-1{
   display: inline-block;
   width: 47% ;
