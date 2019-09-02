@@ -23,12 +23,12 @@
 }
 
 /* Positioning Classes */
-#left{
+.left{
   float: left;
   width: 65%;
   margin-left: 2px;
 }
-#right{
+.right{
   float: right;
   width:30%;
 }
