@@ -62,7 +62,7 @@
   margin-left: 40px;
 }
 #col-1 {
-  display: block;
+  display: inline-block;
   margin-left: -50px;
   float: right;
   
